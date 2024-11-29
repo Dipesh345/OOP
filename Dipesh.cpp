@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-	cout<<"Dipesh randi ko ban muji :)."<<endl;
+	cout<<"Dipesh :)."<<endl;
 	return(0);
 }
